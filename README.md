@@ -121,13 +121,3 @@ data/videos/
 
 
 
-## Contributing
-
-1. Follow the existing code structure
-2. Add tests in the `tests/` directory
-3. Update documentation as needed
-4. Ensure all imports use the new package structure
-
-## License
-
-[Add your license information here]
